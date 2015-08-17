@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint-Add-in-CSOM-BasicDataOperations", "SharePoint-Add-in-CSOM-BasicDataOperations\SharePoint-Add-in-CSOM-BasicDataOperations.csproj", "{7C258F92-ED57-436C-B0E2-20234F239C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint-Add-in-CSOM-BasicDataOperationsWeb", "SharePoint-Add-in-CSOM-BasicDataOperationsWeb\SharePoint-Add-in-CSOM-BasicDataOperationsWeb.csproj", "{8EE7C0C5-99F1-42AE-BF89-C8438C7FDD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C258F92-ED57-436C-B0E2-20234F239C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C258F92-ED57-436C-B0E2-20234F239C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C258F92-ED57-436C-B0E2-20234F239C2B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7C258F92-ED57-436C-B0E2-20234F239C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C258F92-ED57-436C-B0E2-20234F239C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C258F92-ED57-436C-B0E2-20234F239C2B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8EE7C0C5-99F1-42AE-BF89-C8438C7FDD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE7C0C5-99F1-42AE-BF89-C8438C7FDD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE7C0C5-99F1-42AE-BF89-C8438C7FDD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE7C0C5-99F1-42AE-BF89-C8438C7FDD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
