@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- SharePoint
+- Office 365
+languages:
+- C#
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 8/17/2015 1:40:30 PM
+---
 # Basic CRUD operations in SharePoint Add-ins using the client-side object model (CSOM) APIs #
 
 ## Summary
