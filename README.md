@@ -10,42 +10,39 @@ extensions:
   technologies:
   - Add-ins
   createdDate: 8/17/2015 1:40:30 PM
+description: "Use the SharePoint client-side object model to perform create, read, update, and delete operations on lists and list items from a SharePoint Add-in."
 ---
-# Basic CRUD operations in SharePoint Add-ins using the client-side object model (CSOM) APIs #
+
+# Basic CRUD operations in SharePoint Add-ins using the client-side object model (CSOM) APIs
 
 ## Summary
+
 Use the SharePoint client-side object model (CSOM) to perform create, read, update, and delete operations on lists and list items from a SharePoint Add-in.
 
-### Applies to ###
+### Applies to
+
 -  SharePoint Online and on-premise SharePoint 2013 and later 
 
-## Prerequisites ##
-This sample requires the following:
+## Prerequisites
 
+This sample requires the following:
 
 - A SharePoint 2013 development environment that is configured for app isolation and OAuth. (A SharePoint Online Developer Site is automatically configured. For an on premise development environment, see [Set up an on-premises development environment for SharePoint Add-ins](https://msdn.microsoft.com/library/office/fp179923.aspx) and [Use an Office 365 SharePoint site to authorize provider-hosted add-ins on an on-premises SharePoint site](https://msdn.microsoft.com/library/office/dn155905.aspx).) 
 
-
 - Visual Studio and the Office Developer Tools for Visual Studio installed on your developer computer 
 
-
-## Description of the code ##
+## Description of the code
 The code that uses the CSOM APIs is located in the Default.aspx.cs file of the SharePoint-Add-in-CSOM-BasicDataOperationsWeb project. The Default.aspx page of the add-in appears after you install and launch the add-in and looks similar to the following.
 
 ![The add-in start page with a table listing all the list on the site by name and ID.](/description/fig1.gif) 
 
-
-
 The sample demonstrates the following:
-
 
 - How to read and write data to and from the host web of a SharePoint Add-in.
 
-
 - How to load the data returned from SharePoint into the client context object and then display the data. 
 
-
-## To use the sample #
+## To use the sample
 
 12. Open **Visual Studio** as an administrator.
 13. Open the .sln file.
@@ -95,7 +92,7 @@ We'd love to get your feedback on this sample. You can send your questions and s
 
 [Complete basic operations using SharePoint 2013 client library code](https://msdn.microsoft.com/library/office/fp179912.aspx)
 
-### Copyright ###
+### Copyright
 
 Copyright (c) Microsoft. All rights reserved.
 
