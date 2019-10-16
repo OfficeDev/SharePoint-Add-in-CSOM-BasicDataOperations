@@ -85,7 +85,6 @@ The sample demonstrates the following:
 
 We'd love to get your feedback on this sample. You can send your questions and suggestions to us in the [Issues](https://github.com/OfficeDev/SharePoint-Add-in-CSOM-BasicDataOperations/issues) section of this repository.
   
-<a name="resources"/>
 ## Additional resources
 
 [SharePoint Add-ins](https://msdn.microsoft.com/library/office/fp179930.aspx)
